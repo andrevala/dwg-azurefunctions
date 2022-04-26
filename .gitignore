@@ -3,3 +3,5 @@
 ################################################################################
 
 /DailyWordGuess/UserService/bin
+/DailyWordGuess/UserService/obj
+/DailyWordGuess/.vs/DailyWordGuess/DesignTimeBuild
